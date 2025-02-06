@@ -1,1 +1,1 @@
-# Java-fuzzysloth-1
+Dummy template
